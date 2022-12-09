@@ -1,0 +1,1 @@
+C:\Users\dell\OneDrive\Documents\C#\Projet\Phoneword\Phoneword\Phoneword.csproj;x64
